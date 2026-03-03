@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandip limbasiya\\OneDrive\\Desktop\\C# L\\Program23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351F0EC3-D9EB-49E2-9E7D-C6573B5D9B90}|Program23\\Program23.csproj|c:\\users\\sandip limbasiya\\onedrive\\desktop\\c# l\\program23\\program23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F0EC3-D9EB-49E2-9E7D-C6573B5D9B90}|Program23\\Program23.csproj|solutionrelative:program23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandip limbasiya\\OneDrive\\Desktop\\C# L\\Program23\\Program23\\Program.cs",
+              "RelativeDocumentMoniker": "Program23\\Program.cs",
+              "ToolTip": "C:\\Users\\sandip limbasiya\\OneDrive\\Desktop\\C# L\\Program23\\Program23\\Program.cs",
+              "RelativeToolTip": "Program23\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T02:48:33.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

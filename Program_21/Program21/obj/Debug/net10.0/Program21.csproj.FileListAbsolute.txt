@@ -1,0 +1,15 @@
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\bin\Debug\net10.0\Program21.exe
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\bin\Debug\net10.0\Program21.deps.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\bin\Debug\net10.0\Program21.runtimeconfig.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\bin\Debug\net10.0\Program21.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\bin\Debug\net10.0\Program21.pdb
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.AssemblyInfoInputs.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.AssemblyInfo.cs
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.csproj.CoreCompileInputs.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.sourcelink.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\refint\Program21.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.pdb
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\Program21.genruntimeconfig.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program21\Program21\obj\Debug\net10.0\ref\Program21.dll
