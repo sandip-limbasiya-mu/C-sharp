@@ -1,0 +1,15 @@
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\bin\Debug\net10.0\Program_10.exe
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\bin\Debug\net10.0\Program_10.deps.json
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\bin\Debug\net10.0\Program_10.runtimeconfig.json
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\bin\Debug\net10.0\Program_10.dll
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\bin\Debug\net10.0\Program_10.pdb
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.AssemblyInfoInputs.cache
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.AssemblyInfo.cs
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.csproj.CoreCompileInputs.cache
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.sourcelink.json
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.dll
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\refint\Program_10.dll
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.pdb
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\Program_10.genruntimeconfig.cache
+C:\Users\Manish\Desktop\MU\c#\Program_10\Program_10\obj\Debug\net10.0\ref\Program_10.dll
