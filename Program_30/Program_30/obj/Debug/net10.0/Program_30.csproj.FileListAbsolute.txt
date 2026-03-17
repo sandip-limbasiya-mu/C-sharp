@@ -1,0 +1,15 @@
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\bin\Debug\net10.0\Program_30.exe
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\bin\Debug\net10.0\Program_30.deps.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\bin\Debug\net10.0\Program_30.runtimeconfig.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\bin\Debug\net10.0\Program_30.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\bin\Debug\net10.0\Program_30.pdb
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.AssemblyInfoInputs.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.AssemblyInfo.cs
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.csproj.CoreCompileInputs.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.sourcelink.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\refint\Program_30.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.pdb
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\Program_30.genruntimeconfig.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_30\Program_30\obj\Debug\net10.0\ref\Program_30.dll
