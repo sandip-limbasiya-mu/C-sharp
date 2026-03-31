@@ -1,0 +1,15 @@
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\bin\Debug\net10.0\Program_32.exe
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\bin\Debug\net10.0\Program_32.deps.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\bin\Debug\net10.0\Program_32.runtimeconfig.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\bin\Debug\net10.0\Program_32.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\bin\Debug\net10.0\Program_32.pdb
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.AssemblyInfoInputs.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.AssemblyInfo.cs
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.csproj.CoreCompileInputs.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.sourcelink.json
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\refint\Program_32.dll
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.pdb
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\Program_32.genruntimeconfig.cache
+C:\Users\sandip limbasiya\OneDrive\Desktop\C# L\Program_32\Program_32\obj\Debug\net10.0\ref\Program_32.dll
